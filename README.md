@@ -1,6 +1,5 @@
 # Nonsense-quiz
-![image](https://user-images.githubusercontent.com/96058996/158538063-267498ca-dea6-47a5-ab51-377d0bf5ce97.png) ![image](https://user-images.githubusercontent.com/96058996/158538050-e686d9c3-c719-45fa-b986-e671479916c2.png) ![image](https://user-images.githubusercontent.com/96058996/158537989-ac455642-ac5a-40cf-81fe-f6fd205e3289.png)
-
-
-
+- 시작버튼 누른 후 ![image](https://user-images.githubusercontent.com/96058996/158538543-e32f0e2b-dd82-4336-b3df-99840488546c.png)
+- 퀴즈를 풀면서 sec 카운트 ![image](https://user-images.githubusercontent.com/96058996/158538696-2595fdba-538e-4301-90b2-1995b6bbd483.png)
+- 3문제 입력이 끝난 후, 획득 점수와 sec 표시 ![image](https://user-images.githubusercontent.com/96058996/158538848-7fa4a9eb-7798-42d7-ac18-a74210ffc08d.png)
 
